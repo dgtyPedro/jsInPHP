@@ -7,20 +7,6 @@ use dgtyPedro\jsInPHP\js;
 $lib = new js;
 $lib->callJquery();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ?>
 
 
